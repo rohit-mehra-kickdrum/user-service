@@ -29,7 +29,7 @@ The project is organized as follows:
 
 
 ```
-https://github.com/rohit-mehra-kickdrum/user-service.git
+git clone https://github.com/rohit-mehra-kickdrum/user-service.git
 
 ```
 
